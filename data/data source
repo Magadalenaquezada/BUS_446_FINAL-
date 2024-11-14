@@ -1,2 +1,15 @@
 The dataset we chose was obtained from https://data.scorenetwork.org/golf/pga_drive_putt.html it focuses on the performance statistics of golfers during the 2022 PGA season, specifically across 19 professional tournaments.
 Each row of data gives the measures for one golfer in one tournament. The dataset covers 19 PGA tournaments from the 2022 season with 1387 cases in all. Each tournament consists of four rounds of golf. Some golfers are eliminated after the first two (or sometimes three) rounds. Only players who competed in all four rounds (i.e. those that made the “cut”) are included in this dataset.
+Variable	/  Description
+playerName	Name of the player
+country: The country where the player is from
+avgDriveDistz:	Average driving distance (in yards)
+drivePct:	Percentage of times a tee shot comes to rest in the fairway
+driveSG:	Strokes gained off the tee measures player performance off the tee on all par 4s and par 5s of how much better or worse a player’s drive is than the PGA Tour average
+avgPuttsPerRound:	Average number of total putts per round
+onePuttPct:	Percentage of times it took one putt to get the ball into the hole
+puttsSG:	Strokes gained putting measures how many strokes a player gains or loses on the greens compared to the PGA Tour average
+avgScore:	The scoring average is the total strokes divided by the total rounds
+Money:	The official money is the prize money award to the Professional members
+Points:	FedexCup Regular Season Points are awarded points by finished position for performance in each tournament
+Tournament:	The tournament where the PGA Tour is taking place
