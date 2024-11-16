@@ -1,1 +1,36 @@
-
+create new variable in excel that separates US and non-US players
+name it US?
+open tableu 
+connect excel data 
+solving for question 1
+create new sheet
+add US? to columns 
+add average drive distance to columns
+add average score to rows
+add US? to color
+add Avg score to Label
+edit Y axis range to 65-79.9
+solving for question 2
+create new sheet 
+add US? to columns 
+add avg putts to columns 
+change measure to average 
+add money to rows
+change measure to avg money 
+add US? to color
+add money to label 
+change money measure to average 
+duplicate current sheet 
+add tournament to color
+duplicate current sheet
+delete tournament from color
+Add tournament to filters
+edit filter
+select only "the players tournament"
+solving for question 3
+create new sheet 
+add tournament to columns 
+add US? to columns 
+Add avg score to rows
+chnage measure of score to avg 
+add US? to color
