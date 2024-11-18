@@ -7,7 +7,7 @@ The project aims to analyze golf performance metrics to determine if American pl
 
 Data section: Provide full data excel file
 
-Visualization section: This section contains power point presentation with final findings with explanation of our project and a separate file only with the graphs of our 3 research questions.
+Visualization section: This section contains power point presentation with final findings with explanation of our project 
 
 Code section: Provide the steps we used on Tableu to visualize our questions
 
